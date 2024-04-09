@@ -1,6 +1,5 @@
 # SRCNN
-Implementation of SRCNN (Image super resolution using deep convolutional networks)
-  <SRCNN>            <SRGAN>         <ORIGINAL>
+Implementation of SRCNN (Image super resolution using deep convolutional networks) <SRCNN>            <SRGAN>         <ORIGINAL>
 
 
 ![image](https://github.com/kimhyeonejun/SRCNN/assets/103301952/b46db0b4-b790-4c23-ba51-2adc09057ba4)
