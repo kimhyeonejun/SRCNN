@@ -1,6 +1,6 @@
 # SRCNN
 ## Implementation of SRCNN (Image super resolution using deep convolutional networks)
-This work provides the implementation of SRCNN, a super-resolution model, presented in 2016. I have read through the whole paper and tried to generate the model with reference to some other sources. The model is implemented using pytorch. The quality of generated model is in line with the result of paper. T90 is used as training dataset and Set 5 is used as test dataset.
+This work provides the implementation of SRCNN, a super-resolution model, presented in 2014. I have read through the whole paper and tried to generate the model with reference to some other sources. The model is implemented using pytorch. The quality of generated model is in line with the result of paper. T90 is used as training dataset and Set 5 is used as test dataset.
 | `<SRCNN>`  | `<ORIGINAL>`   |
 |------------|----------------|
 |![image](https://github.com/kimhyeonejun/SRCNN/assets/103301952/b46db0b4-b790-4c23-ba51-2adc09057ba4)|![image](https://github.com/kimhyeonejun/SRCNN/assets/103301952/6d2d15d0-9c70-456c-95f5-5929ccfef377)|
